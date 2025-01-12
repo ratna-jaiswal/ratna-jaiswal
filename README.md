@@ -2,9 +2,9 @@
 - 📘 I'm persuing Btech CSE in IIIT Guwahati
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend development
-<!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me https://www.linkedin.com/in/ratna-jaiswal/
-- 😄 Pronouns: She
+<!--- - 💞️ I’m looking to collaborate on ...--->
+<!--- - 😄 Pronouns: She--->
 <!---- ⚡ Fun fact: ...--->
 
 <!---
