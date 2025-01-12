@@ -3,6 +3,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend development
 - 📫 How to reach me https://www.linkedin.com/in/ratna-jaiswal/
+- 👩‍💻 Participated in GSSOC extended'24 and HacktoberFest'24
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!--- - 😄 Pronouns: She--->
 <!---- ⚡ Fun fact: ...--->
